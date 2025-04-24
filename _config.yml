@@ -1,5 +1,6 @@
-title: tonic-starter
-description: ""
+title: alices-incredible-jekkyl-theme
+description: "i think the title sums it pretty well :D"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+

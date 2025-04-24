@@ -7,6 +7,6 @@ Alice's incredible jekyll theme (yeah i'll maybe refer to it as _this theme_ :so
 
 Some cool things about it:
 
-- <u>Nice underlines</u> (wait is that )
-- More to come probably
+- <u>Nice underlines</u>
+- _More to come probably_
 
