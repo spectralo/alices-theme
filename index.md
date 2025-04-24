@@ -1,5 +1,5 @@
 ---
-{}
+layout: default
 ---
 # Alice's incredible jekkyll theme :D
 
